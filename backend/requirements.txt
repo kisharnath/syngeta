@@ -1,0 +1,3 @@
+fastapi[standard]
+pinecone
+langchain_community
